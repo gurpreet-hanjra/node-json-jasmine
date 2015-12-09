@@ -1,0 +1,18 @@
+{
+  "name": "read-json-file-node",
+  "version": "1.0.0",
+  "description": "Reads data from external JSON file. Parses it and returns it as module. Jasmine test to make sure it works as expected.",
+  "main": "Caller.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "Node",
+    "Jasmine"
+  ],
+  "author": "Gurpreet Singh Hanjra",
+  "license": "ISC"
+}
